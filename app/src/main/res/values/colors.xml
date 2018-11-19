@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#228ec4</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorFloatingButtonAdd">#efeb13</color>
+    <color name="colorFloatingButtonCall">#27bc4a</color>
+    <color name="colorTextHint">#a4228ec4</color>
+    <color name="colorLine">#d7228ec4</color>
+</resources>
